@@ -1,4 +1,4 @@
-# Epsilon ESP32 SCANNER 
+# ![Exemple d'image](img/EpsilonPic.png) Epsilon ESP32 SCANNER  
 
 Epsilon is a tool for monitoring the surrounding WiFi and Bluetooth Low Energy (BLE) networks, designed for troubleshooting, network management, and research applications. It also includes a fun "rickroll" action to display information about detected WiFi networks, including the total number of networks found.
 
